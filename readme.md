@@ -36,6 +36,14 @@ Esse projeto foi feito e será mantido/atualizado por estudantes e voluntários 
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/santiagoNogueira66">
+        <img src="https://github.com/santiagoNogueira66.png" width="100px;" alt="Foto do santiago no GitHub"/><br>
+        <sub>
+          <b>Santiago</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 
     
