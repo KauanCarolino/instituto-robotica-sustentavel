@@ -14,7 +14,7 @@ Esse projeto foi feito e será mantido/atualizado por estudantes e voluntários 
   <tr>
     <td align="center">
       <a href="https://github.com/KauanCarolino">
-        <img src="https://github.com/KauanCarolino.png" width="100px;" alt="Foto do Kauan Carolino no GitHub"/><br>
+        <img src="https://github.com/KauanCarolino.png" width="90px;" alt="Foto do Kauan Carolino no GitHub"/><br>
         <sub>
           <b>Kauan Carolino</b>
         </sub>
@@ -22,7 +22,7 @@ Esse projeto foi feito e será mantido/atualizado por estudantes e voluntários 
     </td>
     <td align="center">
       <a href="https://github.com/Madsonosv">
-        <img src="https://github.com/is-Isadora-Rocha.png" width="100px;" alt="Foto do Isadora Rocha no GitHub"/><br>
+        <img src="https://github.com/is-Isadora-Rocha.png" width="90px;" alt="Foto do Isadora Rocha no GitHub"/><br>
         <sub>
           <b>Isadora Rocha</b>
         </sub>
@@ -30,13 +30,20 @@ Esse projeto foi feito e será mantido/atualizado por estudantes e voluntários 
     </td>
     <td align="center">
       <a href="https://github.com/Madsonosv">
-        <img src="https://github.com/Madsonosv.png" width="100px;" alt="Foto do Madson no GitHub"/><br>
+        <img src="https://github.com/Madsonosv.png" width="90px;" alt="Foto do Madson no GitHub"/><br>
         <sub>
           <b>Madson</b>
         </sub>
       </a>
     </td>
+    <td align="center">
+    <a href="https://github.com/santiagoNogueira66">
+     <img src="https://github.com/santiagoNogueira66.png" width ="100px;" alt="alt="Foto do santiago no GitHub"/><br>
+      <sub>
+        <b>santiago</b>
+      </sub>
+  </td>
   </tr>
-
+  
     
 </table>
